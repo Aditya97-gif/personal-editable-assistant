@@ -1,5 +1,5 @@
 # Personal-editable-assistant
-Voice powered personal assistant editable code with a easter egg to unlock a prize. Also do install the following library through your terminal.(If you have problem installing speech recogintion then please prefer youtube)
+Voice powered personal assistant editable code with a easter egg to unlock a prize. Also do install the following library through your terminal.(If you have problem installing speech recognition then please prefer youtube)
 pip install pyttsx3,
 pip install smtplib,
 pip install webbrowser,
